@@ -238,6 +238,29 @@ SmartVault-AWS/
 
 **Total: effectively $0 on free tier.**
 
+## 📸 Screenshots
+
+### EC2 Instance Running
+![EC2](ec2-running.png)
+
+### EBS Volume Attached
+![EBS](ebs-attached.png)
+
+### IAM Role Created
+![IAM Role](lambda-role.png)
+
+### SNS Subscription Confirmed
+![SNS](sns-created.png)
+
+### Lambda Test Success
+![Lambda](lambda-success.png)
+
+### SNS Email Received
+![Email](sns-email.png)
+
+### EventBridge Schedule
+![EventBridge](eventbridge-schedule.png)
+
 ---
 
 ## Author
